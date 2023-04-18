@@ -1,0 +1,13 @@
+main {
+    min-height: calc(100vh - 160px);
+  }
+
+  .card{
+    height: 420px;
+    width: 300px;
+    margin: 30px;
+  }
+
+  .card img{
+    height: 250px;
+  }
